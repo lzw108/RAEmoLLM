@@ -1,0 +1,5 @@
+transformers
+torch
+datasets
+text2vec
+pandas
